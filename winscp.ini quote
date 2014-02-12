@@ -1,0 +1,7 @@
+[Sessions\connection]
+HostName=ftp.example.com
+PortNumber=21
+UserName=username
+FSProtocol=5
+Password=pass
+RemoteDirectory=/_mirror

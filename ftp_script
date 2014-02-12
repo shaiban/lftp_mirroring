@@ -1,0 +1,6 @@
+option batch abort
+option confirm off
+open connection
+cd _mirror
+get -delete * temp\ 
+quit
