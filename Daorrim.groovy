@@ -37,7 +37,7 @@ def run_this = {List cmd ->
 	if (err) println "err:\n$err"
 		}
 
-println ( " Daorrim ROAD to EPAM mirroring script " + Calendar.getInstance().getTime())
+println ( " Daorrim mirroring script " + Calendar.getInstance().getTime())
 
     
 	
